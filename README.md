@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, I'm Adhish, and I'm primarily interested in web development using the MERN JS tech stack: MongoDB. ExpressJS, NodeJS and ReactJS. I have recently completed a fully responsive recipe-app with customizable styles, user signup, login, authentication, and searching with the help of an API, and look forward to making many more projects in this field. I also have an interest in cloud technologies, databases and data science.
 
 <!--
 **Adhishg704/Adhishg704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
