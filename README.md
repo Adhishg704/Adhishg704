@@ -1,4 +1,4 @@
-Hello, I'm Adhish, and I'm primarily interested in web development using the MERN JS tech stack: MongoDB. ExpressJS, NodeJS and ReactJS. I have recently completed a fully responsive recipe-app with customizable styles, user signup, login, authentication, and searching with the help of an API, and look forward to making many more projects in this field. I also have an interest in cloud technologies, databases and data science.
+Hello, I'm Adhish, and I have experience building web apps using the MERN Javascript Stack: ReactJS, MongoDB, ExpressJS and NodeJS. I am also interested in data engineering using SQL and am learning PySpark. I have some experience developing machine learning models, performing visualizations using Python, and have used BeautifulSoup and Selenium libraries for web scraping as well as nltk libraries for sentiment analysis using natural language processing. I also am an AWS Certified Cloud practitioner and am interested in exploring cloud technologies further.
 
 <!--
 **Adhishg704/Adhishg704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
