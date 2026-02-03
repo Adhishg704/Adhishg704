@@ -10,7 +10,9 @@ Full-stack app to analyze anime sentiment and similarity using real user reviews
 
 Django + BERT NLP – Summarizes top reviews
 
-React + Tailwind – Anime similarity engine & responsive UI
+Similarity - finds similarity between analyzed anime and your 3 x 3 grid using a cosine similarity algorithm over the tags.
+
+React + Tailwind – Responsive UI
 
 Provides analytical insights: tag distributions & character popularity
 
