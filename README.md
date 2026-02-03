@@ -3,6 +3,7 @@ Hi, I'm Adhish 👋
 Software developer with experience in Java & Spring Boot and the MERN stack (MongoDB, Express.js, React.js, Node.js). Passionate about AI, full-stack development, and cloud technologies. AWS Certified Cloud Practitioner.
 
 🔹 Key Projects
+
 🎬 Anime Analyzer
 
 Full-stack app to analyze anime sentiment and similarity using real user reviews.
