@@ -8,28 +8,21 @@ Software developer with experience in Java & Spring Boot and the MERN stack (Mon
 
 Full-stack app to analyze anime sentiment and similarity using real user reviews.
 
-🧠 Django + BERT NLP – Summarizes top reviews
-
-💻 React + Tailwind – Anime similarity engine & responsive UI
-
-📊 Provides analytical insights: tag distributions & character popularity
-
+   🧠 Django + BERT NLP – Summarizes top reviews
+   💻 React + Tailwind – Anime similarity engine & responsive UI
+   📊 Provides analytical insights: tag distributions & character popularity
 
 📚 Book Tagger (MVP, In Progress)
 
 Spring Boot app that automatically tags books using the Storygraph library based on:
 
-🏷️ Tags
+   🏷️ Tags
+   ✍️ Author
+   📅 Year published
+   📖 Year read
 
-✍️ Author
-
-📅 Year published
-
-📖 Year read
-
-🤖 Future AI service – Generates tags from user input and Google Books descriptions
-
-⚡ Scalable full-stack solution leveraging Java & Spring Boot
+   🤖 Future AI service – Generates tags from user input and Google Books descriptions
+   ⚡ Scalable full-stack solution leveraging Java & Spring Boot
 
 <!--
 **Adhishg704/Adhishg704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
