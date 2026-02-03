@@ -1,4 +1,34 @@
-Hello, I'm Adhish, and I have experience building web apps using the MERN Javascript Stack: ReactJS, MongoDB, ExpressJS and NodeJS. I am also interested in data engineering using SQL and am learning PySpark. I have some experience developing machine learning models, performing visualizations using Python, and have used nltk libraries for sentiment analysis using natural language processing, and am currently exploring the world of LLM's for a text generation project. I also am an AWS Certified Cloud practitioner and am interested in exploring cloud technologies further.
+Hi, I'm Adhish 👋
+
+Software developer with experience in Java & Spring Boot and the MERN stack (MongoDB, Express.js, React.js, Node.js). Passionate about AI, full-stack development, and cloud technologies. AWS Certified Cloud Practitioner.
+
+🔹 Key Projects
+🎬 Anime Analyzer
+
+Full-stack app to analyze anime sentiment and similarity using real user reviews.
+
+🧠 Django + BERT NLP – Summarizes top reviews
+
+💻 React + Tailwind – Anime similarity engine & responsive UI
+
+📊 Provides analytical insights: tag distributions & character popularity
+
+
+📚 Book Tagger (MVP, In Progress)
+
+Spring Boot app that automatically tags books using the Storygraph library based on:
+
+🏷️ Tags
+
+✍️ Author
+
+📅 Year published
+
+📖 Year read
+
+🤖 Future AI service – Generates tags from user input and Google Books descriptions
+
+⚡ Scalable full-stack solution leveraging Java & Spring Boot
 
 <!--
 **Adhishg704/Adhishg704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
