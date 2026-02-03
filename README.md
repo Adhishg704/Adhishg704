@@ -14,6 +14,8 @@ React + Tailwind – Anime similarity engine & responsive UI
 
 Provides analytical insights: tag distributions & character popularity
 
+
+
 📚 Book Tagger (MVP, In Progress)
 
 Spring Boot app that automatically tags books using the Storygraph library based on:
