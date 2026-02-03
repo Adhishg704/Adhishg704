@@ -30,7 +30,7 @@ Year published
 
 Year read
 
-Future AI service – Generates tags from user input and Google Books descriptions
+Future AI service – Applies user input tags(eg: time travel) to relevant books in your library using Google Books descriptions
 
 Scalable full-stack solution leveraging Java & Spring Boot
 
