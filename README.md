@@ -20,19 +20,25 @@ Provides analytical insights: tag distributions & character popularity
 
 📚 Book Tagger (MVP, In Progress)
 
-Spring Boot app that automatically tags books using the Storygraph library based on:
+Built a scalable book management backend using Java and Spring Boot with REST APIs designed according to OpenAPI standards.
 
-Tags
+Containerized the application using Docker for PostgresQL DB with pgvector, and Kafka services for consistent local development and simplified deployment.
 
-Author
+Implemented an asynchronous import and embedding pipeline using Apache Kafka, enabling reliable background processing of large book libraries.
 
-Year published
+Integrated OpenAI to generate high-quality book summaries and create semantic embeddings for each book.
 
-Year read
+Stored vector embeddings in PostgreSQL with pgvector to enable fast semantic search and retrieval.
 
-Future AI service – Applies user input tags(eg: time travel) to relevant books in your library using Google Books descriptions
+Designed the system with a modular, scalable architecture to support future AI-powered features and increased workloads.
 
-Scalable full-stack solution leveraging Java & Spring Boot
+Planned enhancements:
+
+User authentication and authorization.
+
+Cloud deployment and production infrastructure.
+
+AI-powered tagging, recommendations, and advanced semantic search improvements.
 
 <!--
 **Adhishg704/Adhishg704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
