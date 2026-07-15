@@ -22,9 +22,11 @@ Provides analytical insights: tag distributions & character popularity
 
 Built a scalable book management backend using Java and Spring Boot with REST APIs designed according to OpenAPI standards.
 
-Containerized the application using Docker for PostgresQL DB with pgvector, and Kafka services for consistent local development and simplified deployment.
+Containerized the application using Docker for PostgresQL DB with pgvector, Kafka and Redis services for consistent local development and simplified deployment.
 
 Implemented an asynchronous import and embedding pipeline using Apache Kafka, enabling reliable background processing of large book libraries.
+
+Implemented caching using Redis for a user's library so repeated requests are not made to the database for each call.
 
 Integrated OpenAI to generate high-quality book summaries and create semantic embeddings for each book.
 
